@@ -1,7 +1,7 @@
 ttml2vtt
 ========
 
-An XSLT to transform subtitle files in TTXML/DFXP-format to WebVTT.
+An XSLT to transform subtitle files in TTML/DFXP-format to WebVTT.
 
 Supports linebreaks and italics-tags but no other styling.
 Expects timestaps in `begin` and `end`-attributes to have two digits precision for seconds, then appends zero to form three digits milliseconds.
